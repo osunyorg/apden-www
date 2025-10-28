@@ -6,8 +6,8 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo-noir.png'
+    footer: '/assets/images/logo-blanc.png'
   home:
     head:
       title: site
